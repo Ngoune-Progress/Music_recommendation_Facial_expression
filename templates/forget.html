@@ -1,0 +1,111 @@
+<html>
+
+
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<style>
+    .login-container{
+    margin-top: 8%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+.login-form-1{
+    padding: 5%;
+    background-color: #4395FA;
+
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+  
+}
+.login-form-2{
+    padding: 5%;
+    /* background: #4395FA; */
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+}
+.login-form-1 input{
+   border-radius: 25px;
+}
+
+.login-form-2 h3{
+    text-align: right;
+    font-weight: 800;
+    text-align: center;
+    font-size: 50;
+    color: #0062cc;
+}
+.login-container form{
+    padding: 10%;
+}
+.image {
+    align-items: center;
+    width: 500px;
+    margin-top: 20px;  }
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    align-items: center;
+    font-weight: 600;
+    color: #4395FA;
+    background-color: #fff;
+}
+
+</style>
+<body>
+
+<div class="container login-container">
+            <div class="row">
+                <div class="col-md-6 login-form-1">
+                    <!-- <h3>Sign Up</h3> -->
+
+                    <h3>Forgot Password</h3>
+
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="New Password" value="" />
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Confirm New Password"  value="" />
+                        </div>
+                        <!-- <div class="form-group">
+                            <input type="password" class="form-control" placeholder="Password" value="" />
+                        </div> -->
+                        <div class="form-group">
+                            <input type="submit" class="btnSubmit" value="send" />
+                        </div>
+                        <!-- <div class="form-group">
+                            <a href="/" class="ForgetPwd">Already registered ?  Login</a>
+                        </div> -->
+                    </form>
+                </div>
+                <div class="col-md-6 login-form-2">
+                    
+                    <div>
+                    <img src="{{ url_for('static', filename='img/mood.png') }} " class="image" alt="mood_image"/>
+
+                </div>
+                <!-- <h3>Lets your emotion guides the beat</h3> -->
+
+
+               
+                </div>
+            </div>
+        </div>
+    </body>
+
+
+        </html>

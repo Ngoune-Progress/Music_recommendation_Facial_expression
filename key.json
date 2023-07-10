@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emotion-recommendation",
+  "private_key_id": "fe505091558024cff13c9a66bcd5d29c745fb8b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDO9zVdEsfoXq5N\nAhXp0HWDL3PElQajmi7MrVAq1QyQAGpxLHQD8VSyICiSdeOQSaSfTBDrakR5Dqk+\nGVrvITcDfAyzWRustzj4tRwmCUuE4dCm/NM/VxvWuPFforn21o6DOTJLc26Bk6TU\nfTA3vK8eYSX1oGIqTcpNI9OXBTj5LsIBvrWdZ7BH3giohPb6ihbX57K3Y10Jkrtr\nXFZZb0pIx4BX9cUqkQIe0wNTwdfATukZlS4cSmKNX+uXyA1F81al2h04/8wawtE6\nesab5Ebns8/dcByhN2rv9eEtP9+JtiQLRfb9iAWGSLabfm0O2hJkdqjeE7H2vPIT\nCGbgvWeVAgMBAAECggEADjsiAzgDC5pUYofYg+RJQET8sTFiFyZx6LGox9kwbPJq\nX0UkO7qAuA14B2IYd1e+Ub8ZkWZpi5K+K76d6cAfQpu+r9JaZyI4xk6Fv053pTfL\nG2sFB4pGKBnoFvW0fcw7rmWPbMVk0tTDymH1SnqB5r/dVqoO4JkgEPUmsRqzKTG1\n10A14AkIep1poafGEKTLyu2tVJIS5NXD9L81YLcpZH6RRQ5gRcdN3Blfce4Epxrs\ntp8YL0oVrLa9lK/angPstdXHUzF9S+Xfl95c2IRdrEDjya5sV31oKEPs6MlIsxP+\nfr7rx4YMF4A0jhmWe0D5OQhCWS/JW4CLtHT/7H48fQKBgQDzSdY/cen9ejl+WA1X\n8EHC8pfPoxglFbdPjYzMFjAVD4wyuS0FtH0zBiIbEjhKK5sKtkedmTeCcj7zY6wG\nD+hxdFjajSHLRGbD6kVelSxqIXiHaPpYtZsMEGhW4QTpkt38UgzHfxZ1eHr1jS53\nUx2Cs/nczdPkJIJg1/XL19jhlwKBgQDZx4cQo2t9iVh6YpD5Ut+Q8XFGprlroouF\noOvODxqA0WMe6CUGWZouwjvLCf1fT/zg5POvUYo7p9Iop/5ziMNx+sUoLllTmtoe\n+gNWBk77eQi9Wqz7dyqycFqq2MO/gHP37JLuyD+OCNNWUEJoBeJedGTllU6Zp3ng\n6iMActUNswKBgGXtPF6uWgsBZw8A0u5R0Stcua+bM+VtmLQyqJdkgFaCgglKPYuT\nV5TF8AoJcx3X8Qfm4FAtvezf8nHEA3Eyvv6xcPx3fn4LtUZFYzTCKK56QWXx3FjI\nFSJTyXMEqSs2hdxNf98g5obmqBUyRhJl9wooXvlcHncJuLncILV7Q/kXAoGAY6Zt\nIyvj75l9JuMbOzq0mfogvxdjGOFTvl2YCL3YfsFQ/b9z0agGaQbvnUSA77AGIlIh\nP0OsYQe1nmzgfbVC2VDKDkzHCv58eFgmVqKkWWVUnnBzXs10eBn5Itv1FheM+RED\nWse+bRuUuJYZDMhEgLv5vyPGx4BewI/iXD4vRwkCgYAOOPMVbsiR8APJo98qrxj6\nL4LdDqE1tnnxdMjj4SAdYvXd3GI1Z4vBTxX586TVb/Dm7KJ7MQfZnIDH1mdHjCrY\nnXrvsoERW2gmio/r6CwfFPH97s5z16ECooI+AxH6SUB1HyUA9ijkJxOWAqY4g9vQ\nb1araVmbr2ZJIsS+Zs8oYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9nou4@emotion-recommendation.iam.gserviceaccount.com",
+  "client_id": "115957500401984898400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9nou4%40emotion-recommendation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
