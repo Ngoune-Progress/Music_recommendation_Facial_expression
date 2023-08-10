@@ -1,5 +1,5 @@
 # Emotion-Music-Recommendation
-Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
+Recommending music based on your facial expressions using FER 2013 dataset, Sporify api and Firebase for authentication and user account storage
 
 
 (Forgive the image quality and my expressions 😆)
@@ -22,8 +22,8 @@ Flask:
 - Keras
 - Tensorflow
 - Spotipy
-- Tkinter (For testing)
 - Flask
+- Firebase
 
 # Dataset:
 The dataset used for this project is the famous FER2013 dataset. Models trained on this dataset can classify 7 emotions. The dataset can be found <a href = "https://www.kaggle.com/msambare/fer2013">here</a>.
