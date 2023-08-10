@@ -2,7 +2,6 @@
 Recommending music based on your facial expressions using FER 2013 dataset, Sporify api and Firebase for authentication and user account storage
 
 
-(Forgive the image quality and my expressions 😆)
 
 # Project Description:
 The emotion recognition model is trained on FER 2013 dataset. It can detect 7 emotions. The project works by getting live video feed from web cam, pass it through the model to get a prediction of emotion. Then according to the emotion predicted, the app will fetch playlist of songs from Spotify through spotipy wrapper and recommend the songs by displaying them on the screen.
@@ -55,4 +54,6 @@ The entire project works perfectly fine. Live detection gives good frame rates d
 - index.html in 'templates' directory is the web page for the application. Basic HTML and CSS.
 - utils.py is an utility module for video streaming of web camera with threads to enable real time detection.
 - train.py is the script for image processing and training the model.
+
+In case of any issues, no human work is perfect contact me at `mr.ngoune@gmail.com`
 
